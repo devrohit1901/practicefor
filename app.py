@@ -9,7 +9,7 @@ sum = num1 + num2
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
-def subtract(a,b):
-    return a-b
+def subtract(a,b,c):
+    return a-b-c
 def division(a,b):
     return a/b
